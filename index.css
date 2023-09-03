@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+div {
+    margin: 10%;
+    border: solid;
+}
