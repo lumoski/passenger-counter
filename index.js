@@ -1,3 +1,4 @@
-document.getElementById("count_el").innerText = 5;
+// document.getElementById("count_el").innerText = 5;
 
-console.log('Hello World');
+let count = 0;
+console.log(count)
