@@ -1,4 +1,3 @@
-let firstBatch = 10;
-let count = firstBatch;
-
-console.log(count)
+function increment() {
+    console.log("The button was clicked")
+}
