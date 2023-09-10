@@ -1,3 +1,4 @@
-document.getElementById("count_el").innerText = 5;
+let firstBatch = 10;
+let count = firstBatch;
 
-console.log('Hello World');
+console.log(count)
