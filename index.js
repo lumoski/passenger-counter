@@ -5,3 +5,8 @@ let increment = () => {
     ++count;
     countEl.innerText = count;
 }
+
+let decrement = () => {
+    --count;
+    countEl.innerText = count;
+}
